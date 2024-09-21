@@ -1,0 +1,2 @@
+# checkupdatesuCore
+suCore
